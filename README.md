@@ -6,6 +6,7 @@ Report: https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/r20170783_novai
 
 Grade: 18 out of 20
 
+**Project Description:**
 This project aims to produce a Customer Segmentation for the Paralyzed Veterans of America (PVA)-
 a non-profit organization that provides programs and services for US veterans with spinal cord
 injuries or disease.
