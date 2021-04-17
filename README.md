@@ -1,8 +1,8 @@
 # Data Mining Project - PVA Customer Segmentation
 
-Data: https://liveeduisegiunl-my.sharepoint.com/:x:/g/personal/r20170783_novaims_unl_pt/EYY-mly6Xx9Ar3ZdKx2K0TABF4vkzvkGAdweCXVy2XOeEw?e=BYEuzr
+Data: https://liveeduisegiunl-my.sharepoint.com/:x:/g/personal/r20170783_novaims_unl_pt/EYY-mly6Xx9Ar3ZdKx2K0TABF4vkzvkGAdweCXVy2XOeEw?e=RNhuir
 
-Report: https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/r20170783_novaims_unl_pt/EQkk9oIiASdCg6nyQ7cRLoIBekl1ne3Jeyv0xejwLHajdg?e=noOkYr
+Report: https://liveeduisegiunl-my.sharepoint.com/:b:/g/personal/r20170783_novaims_unl_pt/EQkk9oIiASdCg6nyQ7cRLoIBNy7CixUEbs7sIp4UxiEfjQ?e=Xp3KzP
 
 Grade: 18 out of 20
 
